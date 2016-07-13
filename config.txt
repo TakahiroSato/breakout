@@ -1,0 +1,86 @@
+// タイトル画面の背景ファイル
+TitleBackGround=pic\\bktop.png
+TitleSound=sound\\se_maoudamashii_onepoint15.ogg
+// ポーズ画面の画像ファイル
+PoseBackGround=pic\\bkblack.png
+PosePosePic=pic\\pose243_93.png
+PoseReturnPic=pic\\return176_48.png
+PoseTitlePic=pic\\title127_48.png
+// ゲームオーバー画面の画像ファイル
+GameOverBackGround=pic\\bkblack.png
+GameOverGameOverPic=pic\\gameover517_93.png
+GameOverTitlePic=pic\\title127_48.png
+// ステージクリア画面の画像ファイル
+StageClearBackGround=pic\\bkblack.png
+StageClearPic=pic\\allclear466_93.png
+
+// 残機数
+LifeNum=10
+
+// ゲーム中の背景ファイル
+GameBackGround=pic\\bkgame.png
+// 数字フォント小
+NumFonts=pic\\fonts.png
+NumFontsWidth=18
+NumFontsHeight=38
+
+//バーの設定/////////
+BarPic=pic\\bar.png
+BarWidth=100
+BarHeight=1
+BarPicWidth=100
+BarPicHeight=15
+BarPicX=0
+BarPicY=0
+/////////////////////
+
+//ボールの設定/////////
+BallPic=pic\\bkballa.png
+BallSoundHit=sound\\se_maoudamashii_system45.ogg
+BallSoundFall=sound\\se_maoudamashii_voice_human04.ogg
+BallWidth=15
+BallHeight=15
+BallPicWidth=15
+BallPicHeight=15
+BallPicX=0
+BallPicY=0
+BallSpeed=5
+///////////////////////
+
+//ブロック配置データファイル
+StageZero=map\\lv01.csv
+StageOne=map\\lv02.csv
+StageTwo=map\\lv03.csv
+StageThree=map\\lv04.csv
+
+//ブロックの設定///////
+MapWidth=10
+MapHeight=25
+BlockWidth=55
+BlockHeight=20
+BlockPic=pic\\bkblock.png
+BlockPicWidth=55
+BlockPicHeight=20
+BlockPicZeroX=0
+BlockPicZeroY=0
+BlockPicOneX=55
+BlockPicOneY=0
+BlockPicTwoX=110
+BlockPicTwoY=0
+BlockPicThreeX=165
+BlockPicThreeY=0
+///////////////////////
+
+//アイテムの設定///////
+ItemPic=pic\\bkitem.png
+ItemPicWidth=35
+ItemPicHeight=18
+ItemWidth=35
+ItemHeight=18
+ItemPicLX=0
+ItemPicCX=35
+ItemPicPX=70
+ItemPicSX=105
+ItemPicY=0
+
+
