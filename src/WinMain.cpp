@@ -10,6 +10,8 @@
 
 const int FPS = 60;
 
+// github にリモートリポジトリを作ったぞ！！
+
 // プログラムはWinMainから始まります
 int WINAPI WinMain(HINSTANCE hInstance , HINSTANCE hPrevInstance , LPSTR lpCmdLine , int nCmdShow)
 {
